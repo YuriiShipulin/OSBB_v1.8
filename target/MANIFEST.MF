@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: mbro8_000
+Implementation-Vendor-Id: ProjectMVC
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_51
+Main-Class: ${start-class}
+
